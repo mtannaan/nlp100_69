@@ -1,0 +1,14 @@
+{
+  "name": "nlp100_69",
+  "version": "0.1.0",
+  "description": "言語処理100本ノック 69本目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mtannaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
